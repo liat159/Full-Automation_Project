@@ -1,0 +1,7 @@
+Name:Demo User
+
+Email:demo@example.com
+
+Current Address :123 Main St
+
+Permananet Address :456 Side St

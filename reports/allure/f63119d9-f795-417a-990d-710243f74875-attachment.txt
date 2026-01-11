@@ -1,0 +1,6 @@
+🔥 Attempt 1: Creating username user_6230fee4
+🚀 SENDING USERNAME: user_6230fee4
+✅ User created successfully!
+📦 bookstore_client LOADED
+📘 BookStoreClient class defined
+🗑️ User user_6230fee4 deleted in cleanup

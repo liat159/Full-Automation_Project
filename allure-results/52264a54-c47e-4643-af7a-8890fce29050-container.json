@@ -1,0 +1,1 @@
+{"uuid": "ed9945e5-5847-45f7-90ca-90840189e12a", "children": ["a9d45d13-bea6-4e70-9192-6e1f81135b9e"], "befores": [{"name": "bookstore_client", "status": "passed", "start": 1768157682042, "stop": 1768157682045}], "afters": [{"name": "bookstore_client::0", "status": "passed", "start": 1768157684281, "stop": 1768157684281}], "start": 1768157682042, "stop": 1768157684281}

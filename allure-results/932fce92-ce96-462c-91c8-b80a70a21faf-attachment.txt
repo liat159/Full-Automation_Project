@@ -1,0 +1,5 @@
+🔥 Attempt 1: Creating username user_f8b4acb9
+🚀 SENDING USERNAME: user_f8b4acb9
+✅ User created successfully!
+🚀 Testing with username: user_f8b4acb9
+🗑️ User user_f8b4acb9 deleted in cleanup
