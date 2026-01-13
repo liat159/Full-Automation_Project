@@ -33,8 +33,7 @@ jobs:
           pytest -m "api" --alluredir=allure-results/api
       - name: Install Allure CLI
         run: |
-           sudo apt-get update
-           sudo apt-get install -y allure
+           npm install -g allure-commandline --save-dev
 
       - name: Generate Allure Report for API
         run: |
