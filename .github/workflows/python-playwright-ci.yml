@@ -31,6 +31,10 @@ jobs:
       - name: Run API tests only
         run: |
           pytest -m "api" --alluredir=allure-results/api
+      - name: Install Allure CLI
+        run: |
+           sudo apt-get update
+           sudo apt-get install -y allure
 
       - name: Generate Allure Report for API
         run: |
