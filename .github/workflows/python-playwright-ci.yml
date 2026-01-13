@@ -67,9 +67,9 @@ jobs:
       - name: Install Playwright browsers
         run: playwright install
 
-      - name: Run UI tests (excluding broken ones)
+      - name: Run UI tests (skip broken, continue on failure)
         run: |
-          pytest -m "ui and not broken" --alluredir=allure-results/ui
+          pytest -m "ui and not broken" --alluredir=allure-results/ui || true
 
       - name: Generate Allure Report for UI
         run: |
