@@ -154,3 +154,4 @@ pytest -s --alluredir=allure-results tests/account/test_account.py
 View Allure report:
 allure serve allure-results
 
+QA Automation: Liat Karavani
